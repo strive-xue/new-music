@@ -1,0 +1,7 @@
+.btn{
+		height:calc(100vh - 42px - 21.6px);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+    text-align: center;
+}
